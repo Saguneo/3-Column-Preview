@@ -26,9 +26,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](/images/screenshot.jpg)
 
-![](./screenshot2.jpg)
+![](/images/screenshot2.jpg)
 
 ### Links
 
@@ -54,7 +54,7 @@ Flexbox
 
 ## Author
 
-- Website - [Add your name here](https://github.com/Saguneo)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Saguneo)
+- Website - [Github](https://github.com/Saguneo)
+- Frontend Mentor - [@Saguneo](https://www.frontendmentor.io/profile/Saguneo)
 
 
