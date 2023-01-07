@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/Saguneo/3-Column-Preview)
-- Live Site URL: [Vercel](3-column-preview-r8oz23ptc-saguneo.vercel.app)
+- Live Site URL: [Vercel](https://3-column-preview-r8oz23ptc-saguneo.vercel.app)
 
 
 ### Built with
